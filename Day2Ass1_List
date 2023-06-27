@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML List Assignment</title>
+</head>
+
+<body>
+    <h1>HTML List Assignment</h1>
+    <h3>Unorderd List</h3>
+    <ul>
+        <li>Football</li>
+        <li>Cricket</li>
+        <li>Volleyball</li>
+        <li>Basketball</li>
+    </ul>
+    <h3>Orderd List</h3>
+    <ol>
+        <li>Chess</li>
+        <li>Playing Cards</li>
+        <li>Ludo</li>
+        <li>Carrom</li>
+    </ol>
+    <h3>Definition List</h3>
+    <dl>
+        <dt>HTML</dt>
+        <dd>Hypertext Markup Language - the standard markup language for creating web pages and web applications.</dd>
+      
+        <dt>CSS</dt>
+        <dd>Cascading Style Sheets - a stylesheet language used for describing the presentation of a document written in HTML.</dd>
+
+        <dt>JavaScript</dt>
+        <dd>JavaScript - A programming Language for Web Developmengt.</dd>
+
+      </dl>
+    
+   
+</body>
+
+</html>
